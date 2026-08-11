@@ -6,7 +6,7 @@
 ![C++](https://img.shields.io/badge/C++-Native_Win32-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Backend-Python_Flask-FFD43B?style=for-the-badge&logo=python)
 
-[![Descargar Instalador](https://img.shields.io/badge/📥_Descargar_Juego_(Instalador_Oficial)-28a745?style=for-the-badge)](https://github.com/Alexjando/MiniDungeon/releases/latest/download/CyberBreach_Setup.exe)
+[![Descargar Instalador](https://img.shields.io/badge/📥_Descargar_Juego_(Instalador_Oficial)-28a745?style=for-the-badge)](https://github.com/Alexjando/Cyber_Breach/releases/latest/download/Cyber_Breach_Setup.exe)
 
 ---
 
