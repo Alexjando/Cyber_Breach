@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Backend-Python_Flask-FFD43B?style=for-the-badge&logo=python)
 ![GDI+](https://img.shields.io/badge/Rendering-GDI+-orange?style=for-the-badge)
 
-[![Descargar Instalador](https://img.shields.io/badge/📥_Descargar_Juego_(Instalador_Oficial)-28a745?style=for-the-badge)](https://github.com/Alexjando/Cyber_Breach/releases/latest/download/Cyber_Breach_Setup.exe)
+[![Descargar Instalador](https://img.shields.io/badge/📥_Descargar_Juego_(Instalador_Oficial)-28a745?style=for-the-badge)](https://github.com/Alexjando/Cyber_Breach/releases/download/v1.08/Cyber_Breach_Setup_v1.08.exe)
 
 ---
 
